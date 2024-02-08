@@ -129,6 +129,7 @@ When working from home i work on my desk with:
 - [Dell U4919DW](https://www.amazon.de/Dell-EMC-tft-U4919DW-49in/dp/B07KMQT7DB)
 - [Steelcase Gesture Chair](https://de.steelcase.com/products/gesture)
 - [Headset H3PRO Hybrid – White](https://www.eposaudio.com/de/de/gaming/products/h3pro-hybrid-white-bluetooth-low-latency-connection-gaming-headset-1000893)
+- [Headset Sennheiser GSP 550](https://newsroom.sennheiser.com/gaming-genuss-dank-intensivem-klang-und-komfort-214775)
 - [Roccat Kone Aimo - White](https://de.roccat.com/products/kone-aimo-remastered)
 - [Keyboard K95 RGB PLATINUM XT – CHERRY MX SPEED](https://www.corsair.com/de/de/p/keyboards/ch-9127414-na/k95-rgb-platinum-xt-mechanical-gaming-keyboard-cherry-mx-speed-na-layout-ch-9127414-na)
 - [Soundbar Sound BlasterX Katana](https://de.creative.com/p/speakers/sound-blasterx-katana)
