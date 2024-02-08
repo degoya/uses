@@ -99,7 +99,7 @@ Extensions installed on WSL: Debian:
 - Brave
 - Opera
 
-### Browser Extensions
+### Firefox Browser Extensions
 
 - Consent-o-matic
 - Facebook Container
