@@ -132,6 +132,7 @@ When working from home i work on my desk with:
 - [Roccat Kone Aimo - White](https://de.roccat.com/products/kone-aimo-remastered)
 - [Keyboard K95 RGB PLATINUM XT – CHERRY MX SPEED](https://www.corsair.com/de/de/p/keyboards/ch-9127414-na/k95-rgb-platinum-xt-mechanical-gaming-keyboard-cherry-mx-speed-na-layout-ch-9127414-na)
 - [Soundbar Sound BlasterX Katana](https://de.creative.com/p/speakers/sound-blasterx-katana)
+- [Nulaxy Foldable Stand](https://www.amazon.de/gp/product/B01M62548J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## On the Go
 
