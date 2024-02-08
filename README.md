@@ -153,21 +153,21 @@ When working from home i work on my desk with:
 
 ![Workspace](workspace.jpg)
 
-- [Dell U4919DW](https://www.amazon.de/Dell-EMC-tft-U4919DW-49in/dp/B07KMQT7DB)
-- [Steelcase Gesture Chair](https://de.steelcase.com/products/gesture)
-- [Headset H3PRO Hybrid – White](https://www.eposaudio.com/de/de/gaming/products/h3pro-hybrid-white-bluetooth-low-latency-connection-gaming-headset-1000893)
-- [Headset Sennheiser GSP 550](https://newsroom.sennheiser.com/gaming-genuss-dank-intensivem-klang-und-komfort-214775)
-- [Roccat Kone Aimo - White](https://de.roccat.com/products/kone-aimo-remastered)
-- [Keyboard K95 RGB PLATINUM XT – CHERRY MX SPEED](https://www.corsair.com/de/de/p/keyboards/ch-9127414-na/k95-rgb-platinum-xt-mechanical-gaming-keyboard-cherry-mx-speed-na-layout-ch-9127414-na)
-- [Soundbar Sound BlasterX Katana](https://de.creative.com/p/speakers/sound-blasterx-katana)
-- [Nulaxy Foldable Stand](https://www.amazon.de/gp/product/B01M62548J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- [Brother MFC-9332CDW Printer](https://store.brother.de/catalogs/brothergermany/geraete/laser/mfc/mfc9332cdw)
-- [Logitec BRIO Pro 4k](https://www.logitech.com/de-de/products/webcams/brio-stream-4k-hd-webcam.960-001194.html)
+- [Dell U4919DW - Monitor](https://www.amazon.de/Dell-EMC-tft-U4919DW-49in/dp/B07KMQT7DB)
+- [Steelcase Gesture - Chair](https://de.steelcase.com/products/gesture)
+- [H3PRO Hybrid – White - Headset ](https://www.eposaudio.com/de/de/gaming/products/h3pro-hybrid-white-bluetooth-low-latency-connection-gaming-headset-1000893)
+- [Sennheiser GSP 550 - Headset](https://newsroom.sennheiser.com/gaming-genuss-dank-intensivem-klang-und-komfort-214775)
+- [Roccat Kone Aimo - White - Mouse](https://de.roccat.com/products/kone-aimo-remastered)
+- [K95 RGB PLATINUM XT – CHERRY MX SPEED - Keyboard](https://www.corsair.com/de/de/p/keyboards/ch-9127414-na/k95-rgb-platinum-xt-mechanical-gaming-keyboard-cherry-mx-speed-na-layout-ch-9127414-na)
+- [ Sound BlasterX Katana - Soundbar](https://de.creative.com/p/speakers/sound-blasterx-katana)
+- [Nulaxy Foldable - Mobile-Stand](https://www.amazon.de/gp/product/B01M62548J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Brother MFC-9332CDW - Printer](https://store.brother.de/catalogs/brothergermany/geraete/laser/mfc/mfc9332cdw)
+- [Logitec BRIO Pro 4k - Webcam](https://www.logitech.com/de-de/products/webcams/brio-stream-4k-hd-webcam.960-001194.html)
 
 ## On the Go
 
 When i travel i use:
 
 - [Dell XPS 15 9550 4k Ultrabook](https://www.dell.com/support/home/de-de/product-support/product/xps-15-9550-laptop/overview)
-- [Microsoft Sculpt Comfort Maus Wireless](https://www.microsoft.com/de-de/d/microsoft-sculpt-comfort-maus/8zg8rps4tcgc?activetab=pivot:%C3%BCbersichttab)
-- [Jabra Elite 4 Active](https://www.jabra.com.de/bluetooth-headsets/jabra-elite-4-active)
+- [Microsoft Sculpt Comfort - Wireless Mouse](https://www.microsoft.com/de-de/d/microsoft-sculpt-comfort-maus/8zg8rps4tcgc?activetab=pivot:%C3%BCbersichttab)
+- [Jabra Elite 4 Active - Ear Buds](https://www.jabra.com.de/bluetooth-headsets/jabra-elite-4-active)
