@@ -8,16 +8,18 @@ My primary workhorse is a selfbuild Desktop Machine. For Traveling i use my Dell
 
 ### Specs
 
-|             |                            |
-| ----------- | -------------------------- |
-| **CASE**    | Lian Li O11 Dynamic EVO XL |
-| **CPU**     | AMD Ryzen9 @ 3.8 GHz       |
-| **COOLING** | ASUS RYUJIN II             |
-| **RAM**     | 32 GB @ 3600MHz            |
-| **GFX**     | NVIDIA 2080RTX OC          |
-| **Disk**    | 2 GB NVMe SSD Raid         |
-| **Screen**  | 49.0" UWQHD+ (5120 x 1440) |
-| **Screen**  | 2x 27.0" FHD (1920 x 1080) |
+|             |                              |
+| ----------- | ---------------------------- |
+| **CASE**    | Lian Li O11 Dynamic EVO XL   |
+| **CPU**     | AMD Ryzen9 @ 3.8 GHz         |
+| **COOLING** | ASUS RYUJIN II               |
+| **RAM**     | 32 GB @ 3600MHz              |
+| **GFX**     | NVIDIA 2080RTX OC            |
+| **Disk**    | 2 GB NVMe SSD Raid           |
+| **Screen**  | 49.0" UWQHD+ (5120 x 1440)   |
+| **Screen**  | 2x 27.0" FHD (1920 x 1080)   |
+| **PSU**     | BeQuiet DARK Power Pro 1200w |
+| **FANS**    | 7xThermaltake Riing 12 RGB   |
 
 ## Operating System
 
