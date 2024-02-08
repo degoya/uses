@@ -69,7 +69,6 @@ Extensions installed on WSL: Debian:
 
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 - [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
-- [laravel-blade](https://marketplace.visualstudio.com/items?itemName=cjhowe7.laravel-blade)
 - [Simple PHP CS Fixer 3](https://marketplace.visualstudio.com/items?itemName=PHLAK.simple-php-cs-fixer-3)
 - [PHP Static Analysis](https://marketplace.visualstudio.com/items?itemName=breezelin.phpstan)
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)
@@ -78,9 +77,9 @@ Extensions installed on WSL: Debian:
 
 #### JavaScript
 
-- [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
 #### STYLE
 
@@ -111,12 +110,40 @@ Extensions installed on WSL: Debian:
 
 ## Other Software
 
-- [Git Source Control](https://git-scm.com)
+- [Adobe Acrobat Pro](https://www.adobe.com/de/acrobat/acrobat-pro.html)
+- [Adobe Creative Cloud](https://www.adobe.com/de/creativecloud.html)
+- [Davinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)
 - [Docker](https://www.docker.com) + [Docker Compose](https://docs.docker.com/compose/)
-- [Total Commander](https://www.ghisler.com)
+- [Figma](https://www.figma.com/)
+- [Git Source Control](https://git-scm.com)
+- [HeidiSQL](https://www.heidisql.com/)
+- [IrfanView](https://www.irfanview.de/)
+- [JDownloader](https://jdownloader.org/)
+- [Microsoft Office 2021](https://www.microsoft.com/de-de/microsoft-365/get-started-with-office-2021?market=de)
+- [NextCloud](https://nextcloud.com/de/install/)
+- [Nvidia Broadcast](https://www.nvidia.com/de-de/geforce/broadcasting/broadcast-app/)
+- [OBS Studio](https://obsproject.com)
+- [PowerToys](https://learn.microsoft.com/de-de/windows/powertoys/)
+- [Putty](https://putty.org/)
 - [Royal TS](https://www.royalapps.com)
+- [RustDesk](https://rustdesk.com/)
+- [SMPlayer](https://www.smplayer.info/de/downloads)
+- [Total Commander](https://www.ghisler.com)
+- [uniCSVed](https://home.hccnet.nl/s.j.francke/software/software.htm)
+- [Voicemeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)
+- [WinRAR](https://www.winrar.de/downld.php)
+- [WireGuard](https://www.wireguard.com/)
+
+## Communication
+
+- [Discord](https://discord.com/)
+- [Ferdium](https://ferdium.org/)
+- [Signal Messenger](https://signal.org/)
 
 ## AI
+
+- [Chat GPT](https://chat.openai.com/)
+- [HuggingChat](https://huggingface.co/chat/)
 
 ## Workspace
 
@@ -134,6 +161,8 @@ When working from home i work on my desk with:
 - [Keyboard K95 RGB PLATINUM XT – CHERRY MX SPEED](https://www.corsair.com/de/de/p/keyboards/ch-9127414-na/k95-rgb-platinum-xt-mechanical-gaming-keyboard-cherry-mx-speed-na-layout-ch-9127414-na)
 - [Soundbar Sound BlasterX Katana](https://de.creative.com/p/speakers/sound-blasterx-katana)
 - [Nulaxy Foldable Stand](https://www.amazon.de/gp/product/B01M62548J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Brother MFC-9332CDW Printer](https://store.brother.de/catalogs/brothergermany/geraete/laser/mfc/mfc9332cdw)
+- [Logitec BRIO Pro 4k](https://www.logitech.com/de-de/products/webcams/brio-stream-4k-hd-webcam.960-001194.html)
 
 ## On the Go
 
