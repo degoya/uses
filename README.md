@@ -62,6 +62,7 @@ Extensions installed on WSL: Debian:
 - [SFTP](https://marketplace.visualstudio.com/items?itemName=natizyskunk.sftp)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 - [html-validate](https://marketplace.visualstudio.com/items?itemName=tobiashansson.html-validate-vscode)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -93,6 +94,7 @@ Extensions installed on WSL: Debian:
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs)
 - [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=zobo.php-intellisense)
+- [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 
 #### JavaScript
 
