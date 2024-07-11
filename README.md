@@ -14,7 +14,7 @@ My primary workhorse is a selfbuild Desktop Machine. For Traveling i use my Dell
 | **CPU**     | AMD Ryzen9 @ 3.8 GHz         |
 | **COOLING** | ASUS RYUJIN II               |
 | **RAM**     | 32 GB @ 3600MHz LED          |
-| **GFX**     | NVIDIA 2080RTX OC            |
+| **GFX**     | NVIDIA 4080 Super RTX OC     |
 | **Disk**    | 2 GB NVMe SSD Raid           |
 | **Screen**  | 49.0" UWQHD+ (5120 x 1440)   |
 | **Screen**  | 2x 27.0" FHD (1920 x 1080)   |
@@ -166,6 +166,7 @@ Extensions installed on WSL: Debian:
 
 - [Chat GPT](https://chat.openai.com/)
 - [HuggingChat](https://huggingface.co/chat/)
+- [Claude.AI](https://claude.ai)
 
 ## Workspace
 
