@@ -78,6 +78,10 @@ Extensions installed on WSL: Debian:
 - [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
 - [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) (JS, Rust, Python)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
 
 
 #### RUST
@@ -101,7 +105,7 @@ Extensions installed on WSL: Debian:
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-
+- [Template String Converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter) 
 
 #### STYLE
 
@@ -110,6 +114,7 @@ Extensions installed on WSL: Debian:
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [Sass (.sass only)](https://marketplace.visualstudio.com/items?itemName=syler.sass-indented)
+- [Inline fold](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold) (Tailwind)
 
 ## Browser
 
