@@ -27,7 +27,7 @@ I use Windows10 as my daily driver with a WSL2 Debian installed.
 
 ## Editor
 
-For webdevelopment I use Windows 10 and a Debian Linux Subsystem and [Visual Studio Code](https://code.visualstudio.com) with the [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) theme and the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon pack.
+For webdevelopment I use Windows 10 and a Debian Bookworm Linux Subsystem with zsh and [Visual Studio Code](https://code.visualstudio.com) with the [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) theme and the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon pack.
 
 ### VS Code Extensions
 
@@ -187,7 +187,7 @@ When working from home i work on my desk with:
 - [Sennheiser GSP 550 - Headset](https://newsroom.sennheiser.com/gaming-genuss-dank-intensivem-klang-und-komfort-214775)
 - [Roccat Kone Aimo - White - Mouse](https://de.roccat.com/products/kone-aimo-remastered)
 - [K95 RGB PLATINUM XT – CHERRY MX SPEED - Keyboard](https://www.corsair.com/de/de/p/keyboards/ch-9127414-na/k95-rgb-platinum-xt-mechanical-gaming-keyboard-cherry-mx-speed-na-layout-ch-9127414-na)
-- [ Sound BlasterX Katana - Soundbar](https://de.creative.com/p/speakers/sound-blasterx-katana)
+- [Sound BlasterX Katana - Soundbar](https://de.creative.com/p/speakers/sound-blasterx-katana)
 - [Nulaxy Foldable - Mobile-Stand](https://www.amazon.de/gp/product/B01M62548J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Brother MFC-9332CDW - Printer](https://store.brother.de/catalogs/brothergermany/geraete/laser/mfc/mfc9332cdw)
 - [Logitec BRIO Pro 4k - Webcam](https://www.logitech.com/de-de/products/webcams/brio-stream-4k-hd-webcam.960-001194.html)
