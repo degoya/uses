@@ -142,6 +142,7 @@ Extensions installed on WSL: Debian:
 - [Davinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)
 - [Docker](https://www.docker.com) + [Docker Compose](https://docs.docker.com/compose/)
 - [Figma](https://www.figma.com/)
+- [Fast Node Manager](https://github.com/Schniz/fnm)
 - [Git Source Control](https://git-scm.com)
 - [HeidiSQL](https://www.heidisql.com/)
 - [IrfanView](https://www.irfanview.de/)
