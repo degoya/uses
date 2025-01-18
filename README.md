@@ -174,6 +174,13 @@ Extensions installed on WSL: Debian:
 - [HuggingChat](https://huggingface.co/chat/)
 - [Claude.AI](https://claude.ai)
 
+## Shell
+
+- [ZSH](https://ohmyz.sh/)
+- [ZSH atomic-powerline Theme](https://github.com/gerardbm/atomic/blob/master/zsh/atomic-powerline.zsh-theme)
+- [Midnight Commander](https://midnight-commander.org/)
+- [Nano](https://www.nano-editor.org/)
+
 ## Workspace
 
 
@@ -182,7 +189,7 @@ When working from home i work on my desk with:
 
 ![Workspace](workspace.jpg)
 
-- [Dell U4919DW - Monitor](https://www.amazon.de/Dell-EMC-tft-U4919DW-49in/dp/B07KMQT7DB)
+- [Samsung 57“ Odyssey Neo G9 (G95NC) Dual-UHD 240Hz](https://www.samsung.com/de/monitors/gaming/odyssey-neo-g9-g95nc-57-inch-240hz-curved-dual-uhd-ls57cg954nuxen/)
 - [Steelcase Gesture - Chair](https://de.steelcase.com/products/gesture)
 - [H3PRO Hybrid – White - Headset ](https://www.eposaudio.com/de/de/gaming/products/h3pro-hybrid-white-bluetooth-low-latency-connection-gaming-headset-1000893)
 - [Sennheiser GSP 550 - Headset](https://newsroom.sennheiser.com/gaming-genuss-dank-intensivem-klang-und-komfort-214775)
