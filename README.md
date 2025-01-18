@@ -15,7 +15,7 @@ My primary workhorse is a selfbuild Desktop Machine. For Traveling i use my Dell
 | **COOLING** | ASUS RYUJIN II               |
 | **RAM**     | 32 GB @ 3600MHz LED          |
 | **GFX**     | NVIDIA 4080 Super RTX OC     |
-| **Disk**    | 2 GB NVMe SSD Raid           |
+| **Disk**    | 2 TB NVMe SSD Raid           |
 | **Screen**  | 49.0" UWQHD+ (5120 x 1440)   |
 | **Screen**  | 2x 27.0" FHD (1920 x 1080)   |
 | **PSU**     | BeQuiet DARK Power Pro 1200w |
