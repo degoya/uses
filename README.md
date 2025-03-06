@@ -105,7 +105,8 @@ Extensions installed on WSL: Debian:
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-- [Template String Converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter) 
+- [Template String Converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
+- [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
 
 #### STYLE
 
