@@ -8,26 +8,28 @@ My primary workhorse is a selfbuild Desktop Machine. For Traveling i use my Dell
 
 ### Specs
 
-|             |                              |
-| ----------- | ---------------------------- |
-| **CASE**    | Lian Li O11 Dynamic EVO XL   |
-| **CPU**     | AMD Ryzen9 @ 3.8 GHz         |
-| **COOLING** | ASUS RYUJIN II               |
-| **RAM**     | 32 GB @ 3600MHz LED          |
-| **GFX**     | NVIDIA 4080 Super RTX OC     |
-| **Disk**    | 2 TB NVMe SSD Raid           |
-| **Screen**  | 57.0" DUHD (7.680 x 2.160)   |
-| **Screen**  | 2x 27.0" FHD (1920 x 1080)   |
-| **PSU**     | BeQuiet DARK Power Pro 1200w |
-| **FANS**    | 7xThermaltake Riing 12 RGB   |
+|             |                                     |
+| ----------- | ----------------------------------- |
+| **CASE**    | Lian Li O11 Dynamic EVO XL White    |
+| **CPU**     | AMD Ryzen9 9950x3d@ 5.7 GHz         |   
+| **MB**      | MSI MPG X870E Edge TI WiFi          |   
+| **COOLING** | MSI MAG CORELIQUID E360 white AIO   |
+| **RAM**     | 64 GB @ 6400MHz KINGSTON FURY Beast |
+| **GFX**     | NVIDIA 4080 Super RTX OC            |
+| **Disk**    | WD Black SN8100 2 TB NVMe SSD       |
+| **Disk**    | 2x Samsung 990 PRO 1 TB NVMe SSD    |
+| **PSU**     | BeQuiet DARK Power Pro 1200w        |
+| **FANS**    | 7xThermaltake Riing 12 RGB          |
+| **Screen**  | 57.0" DUHD (7.680 x 2.160)          |
+| **Screen**  | 2x 27.0" FHD (1920 x 1080)          |
 
 ## Operating System
 
-I use Windows10 as my daily driver with a WSL2 Debian installed.
+I use Windows11 as my daily driver with a WSL2 Debian installed.
 
 ## Editor
 
-For webdevelopment I use Windows 10 and a Debian Bookworm Linux Subsystem with zsh and [Visual Studio Code](https://code.visualstudio.com) with the [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) theme and the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon pack.
+For webdevelopment I use Windows 11 and a Debian Bookworm Linux Subsystem with zsh and [Visual Studio Code](https://code.visualstudio.com) with the [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) theme and the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon pack.
 
 ### VS Code Extensions
 
@@ -135,6 +137,7 @@ Extensions installed on WSL: Debian:
 - Simple Tab Groups
 - uBlock Origin
 - Vue Dev Tools
+- Video DownloadHelper
 
 ## Other Software
 
@@ -180,6 +183,7 @@ Extensions installed on WSL: Debian:
 - [ZSH](https://ohmyz.sh/)
 - [ZSH atomic-powerline Theme](https://github.com/gerardbm/atomic/blob/master/zsh/atomic-powerline.zsh-theme)
 - [Midnight Commander](https://midnight-commander.org/)
+- [NCDU](https://dev.yorhel.nl/ncdu)
 - [Nano](https://www.nano-editor.org/)
 
 ## Workspace
@@ -195,7 +199,9 @@ When working from home i work on my desk with:
 - [H3PRO Hybrid – White - Headset ](https://www.eposaudio.com/de/de/gaming/products/h3pro-hybrid-white-bluetooth-low-latency-connection-gaming-headset-1000893)
 - [Sennheiser GSP 550 - Headset](https://newsroom.sennheiser.com/gaming-genuss-dank-intensivem-klang-und-komfort-214775)
 - [Roccat Kone Aimo - White - Mouse](https://de.roccat.com/products/kone-aimo-remastered)
+- [Turtle Beach - Kone Aimo II - White - Mouse](turtlebeach.com)
 - [K95 RGB PLATINUM XT – CHERRY MX SPEED - Keyboard](https://www.corsair.com/de/de/p/keyboards/ch-9127414-na/k95-rgb-platinum-xt-mechanical-gaming-keyboard-cherry-mx-speed-na-layout-ch-9127414-na)
+- [K70 Pro Max – CORSAIR MGX Switches - Keyboard](https://www.corsair.com/de/de/p/keyboards/ch-910961g-de/k70-max-rgb-magnetic-mechanical-gaming-keyboard-adjustable-corsair-mgx-switches-steel-grey-de-ch-910961g-de)
 - [Sound BlasterX Katana - Soundbar](https://de.creative.com/p/speakers/sound-blasterx-katana)
 - [Nulaxy Foldable - Mobile-Stand](https://www.amazon.de/gp/product/B01M62548J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Brother MFC-9332CDW - Printer](https://store.brother.de/catalogs/brothergermany/geraete/laser/mfc/mfc9332cdw)
